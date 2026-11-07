@@ -159,3 +159,7 @@ npm rebuild better-sqlite3 --ignore-scripts=false
 ## License
 
 This repository is for students of [Software Factories for Real Engineers](https://www.aihero.dev/cohorts/software-factories-for-real-engineers-xdy1m). All rights reserved.
+
+## Teste de Git
+
+Linha adicionada em 7 de novembro de 2026 para testar o caminho do computador até o GitHub. O arquivo novo desse teste está em `teste-github.md`.
